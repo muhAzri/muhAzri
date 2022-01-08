@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azri Fatihah Susanto</h1>
 <h3 align="center">A passionate Flutter Developer And Django Backend Dev</h3>
-
 - 🌱 I’m currently learning **Flutter and Django**
+
+- 👯 I’m looking to collaborate **I Can Slicing Your UI Design Into Flutter Code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhAzri](https://github.com/muhAzri)
 
