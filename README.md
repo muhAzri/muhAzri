@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azri Fatihah Susanto</h1>
-<h3 align="center">A passionate Flutter Developer And Django Backend Dev</h3>
+<h3 align="center">A passionate Flutter Developer And Golang Backend Dev</h3>
 
 - 🌱 I’m currently learning **Flutter And Golang**
 
